@@ -5,6 +5,7 @@ atlassian-ide-plugin.xml
 *.iws
 *.iws.project
 .project
+.idea
 .settings
 .springBeans
 /*.log
