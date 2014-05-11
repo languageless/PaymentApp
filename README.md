@@ -1,4 +1,4 @@
-Exercise application build with Grails.
+Exercise application built with Grails.
 
 Go to:
 
