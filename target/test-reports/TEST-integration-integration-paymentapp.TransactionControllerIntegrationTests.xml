@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Nikos-Galifianakiss-MacBook-Pro.local" name="paymentapp.TransactionControllerIntegrationTests" tests="4" time="2.608" timestamp="2014-05-11T21:33:43">
+  <properties />
+  <testcase classname="paymentapp.TransactionControllerIntegrationTests" name="testCompletePayment" time="2.408" />
+  <testcase classname="paymentapp.TransactionControllerIntegrationTests" name="testCompletePaymentEmptySelectionsShouldReturnValidationErrors" time="0.09" />
+  <testcase classname="paymentapp.TransactionControllerIntegrationTests" name="testCompletePaymentWithAmountOverBalanceShouldReturnError" time="0.032" />
+  <testcase classname="paymentapp.TransactionControllerIntegrationTests" name="testCompletePaymentWithSamePayerAndPayeeShouldReturnError" time="0.032" />
+  <system-out><![CDATA[--Output from testCompletePayment--
+--Output from testCompletePaymentEmptySelectionsShouldReturnValidationErrors--
+--Output from testCompletePaymentWithAmountOverBalanceShouldReturnError--
+--Output from testCompletePaymentWithSamePayerAndPayeeShouldReturnError--
+]]></system-out>
+  <system-err><![CDATA[--Output from testCompletePayment--
+--Output from testCompletePaymentEmptySelectionsShouldReturnValidationErrors--
+--Output from testCompletePaymentWithAmountOverBalanceShouldReturnError--
+--Output from testCompletePaymentWithSamePayerAndPayeeShouldReturnError--
+]]></system-err>
+</testsuite>

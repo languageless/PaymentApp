@@ -1,0 +1,16 @@
+atlassian-ide-plugin.xml
+.classpath
+*.iml
+*.ipr
+*.iws
+*.iws.project
+.project
+.settings
+.springBeans
+/*.log
+Thumbs.db
+target
+out
+*.ids
+stacktrace.log
+logs/

@@ -1,0 +1,19 @@
+Testsuite: paymentapp.TransactionControllerIntegrationTests
+Tests run: 4, Failures: 0, Errors: 0, Time elapsed: 2.608 sec
+------------- Standard Output ---------------
+--Output from testCompletePayment--
+--Output from testCompletePaymentEmptySelectionsShouldReturnValidationErrors--
+--Output from testCompletePaymentWithAmountOverBalanceShouldReturnError--
+--Output from testCompletePaymentWithSamePayerAndPayeeShouldReturnError--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testCompletePayment--
+--Output from testCompletePaymentEmptySelectionsShouldReturnValidationErrors--
+--Output from testCompletePaymentWithAmountOverBalanceShouldReturnError--
+--Output from testCompletePaymentWithSamePayerAndPayeeShouldReturnError--
+------------- ---------------- ---------------
+
+Testcase: testCompletePayment took 2.408 sec
+Testcase: testCompletePaymentEmptySelectionsShouldReturnValidationErrors took 0.09 sec
+Testcase: testCompletePaymentWithAmountOverBalanceShouldReturnError took 0.032 sec
+Testcase: testCompletePaymentWithSamePayerAndPayeeShouldReturnError took 0.032 sec
